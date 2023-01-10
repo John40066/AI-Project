@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "jimp": "^0.16.1",
+    "open": "^8.4.0",
+    "pngjs": "^6.0.0",
+    "selenium-webdriver": "^4.1.0"
+  }
+}
